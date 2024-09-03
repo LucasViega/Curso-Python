@@ -36,9 +36,9 @@ while True:
     elif operador == '-':
         print(f'{numero_1_float} - {numero_2_float} =', numero_1_float - numero_2_float)
     elif operador == '/':
-        print(f'{numero_1_float} / {numero_2_float }=', numero_1_float / numero_2_float)
+        print(f'{numero_1_float} / {numero_2_float } =', numero_1_float / numero_2_float)
     elif operador == '*':
-        print(f'{numero_1_float} * {numero_2_float }=', numero_1_float * numero_2_float)
+        print(f'{numero_1_float} * {numero_2_float } =', numero_1_float * numero_2_float)
     else:
         print('Jamais deveria chegar aqui.')
 
